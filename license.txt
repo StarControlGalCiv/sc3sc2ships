@@ -1,0 +1,6 @@
+Topdown ship images come from The Ur-Quan Masters HD project, see license here:
+https://sourceforge.net/p/urquanmastershd/git-new/ci/master/tree/license.txt
+
+Star Control 3 ship images come from screenshots.
+
+"Star Control" is a trademark of Stardock Entertainment.
